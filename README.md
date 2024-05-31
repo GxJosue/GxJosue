@@ -49,10 +49,10 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/g1fDwRmGjYqjOMYCTp/giphy.gif"  />
+<img align="center" height="150" src="https://media.giphy.com/media/g1fDwRmGjYqjOMYCTp/giphy.gif"  />
 
 ###
 
-<img src="https://raw.githubusercontent.com/GxJosue/GxJosue/output/snake.svg" alt="Snake animation" />
+
 
 ###
