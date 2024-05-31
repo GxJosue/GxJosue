@@ -48,11 +48,3 @@
 </div>
 
 ###
-
-<img align="center" height="150" src="https://media.giphy.com/media/g1fDwRmGjYqjOMYCTp/giphy.gif"  />
-
-###
-
-
-
-###
