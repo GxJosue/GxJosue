@@ -1,4 +1,5 @@
-<h1 align="left">Hi 👋, I'm Josué</h1>
+![github-header-image](https://github.com/GxJosue/GxJosue/assets/129482718/487cd2ea-0512-43d2-977b-d687d177efff)
+
 
 ###
 
@@ -43,8 +44,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GxJosue&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GxJosue&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GxJosue&theme=tokyonight"/>
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/GxJosue?cardType=github&theme=tokyonight&preferLogin=true" width="450" height="200"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GxJosue&theme=tokyo-night&preferLogin=false" width="700" height="300"/>
 </div>
 
 ###
@@ -52,5 +54,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/GxJosue/count.svg?"  />
 </div>
-
-###
